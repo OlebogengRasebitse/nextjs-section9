@@ -44,5 +44,4 @@ function EventItem(props) {
     </li>
   );
 }
-
 export default EventItem;
